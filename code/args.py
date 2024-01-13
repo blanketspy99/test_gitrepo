@@ -1,4 +1,4 @@
-## This is a arguments file 
+## This is an arguments file 
 import sys
 import argparse
 import configparser
